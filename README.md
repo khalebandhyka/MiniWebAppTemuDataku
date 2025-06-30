@@ -2,6 +2,14 @@
 
 ## Mini Web-App TemuDataku
 
+Yth. Tim Rekrutmen TemuDataku,
+
+Perkenalkan, saya Khaleb Andhyka Aprijadi, Mahasiswa Aktif Semester 6 Program Studi Informatika di Universitas Multimedia Nusantara. Saya mengajukan lamaran untuk posisi Full Stack Developer Intern dalam program Internship TemuDataku Batch 2 - 2025.
+
+Dengan ini, saya menyampaikan hasil technical test sesuai dengan instruksi yang diberikan. Semoga mini web-app yang saya buat dapat memenuhi ekspektasi dari tim TemuDataku. 
+
+Berikut adalah panduan untuk membuka aplikasi mini web app ini:
+
 ### **1. Clone atau Download Project**
 
 **Git**
