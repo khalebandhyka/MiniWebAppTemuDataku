@@ -7,7 +7,7 @@
 **Git**
 
 ```
-git clone <repository-url>
+git clone https://github.com/khalebandhyka/MiniWebAppTemuDataku
 cd temudataku-website
 ```
 
@@ -23,7 +23,7 @@ npm install
 npm start
 ```
 
-Website akan terbuka otomatis di browser pada alamat: [**http://localhost:3000**](http://localhost:3000/)
+Website akan terbuka otomatis di browser pada alamat: (http://localhost:3000)
 
 ### **5. Login Demo**
 
@@ -38,7 +38,7 @@ Gunakan kredensial berikut untuk testing (data dummy ditampilkan di page login w
 
 ```
 # Clone project
-git clone <repository-url>
+git clone https://github.com/khalebandhyka/MiniWebAppTemuDataku
 cd temudataku-website
 
 # Install dependencies
