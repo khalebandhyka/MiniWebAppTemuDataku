@@ -15,7 +15,7 @@ Berikut adalah panduan untuk membuka aplikasi mini web app ini:
 **Git**
 
 ```
-git clone https://github.com/khalebandhyka/MiniWebAppTemuDataku
+git clone https://github.com/khalebandhyka/MiniWebAppTemuDataku.git
 cd temudataku-website
 ```
 
@@ -46,7 +46,7 @@ Gunakan kredensial berikut untuk testing (data dummy ditampilkan di page login w
 
 ```
 # Clone project
-git clone https://github.com/khalebandhyka/MiniWebAppTemuDataku
+git clone https://github.com/khalebandhyka/MiniWebAppTemuDataku.git
 cd temudataku-website
 
 # Install dependencies
